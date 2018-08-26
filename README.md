@@ -5,6 +5,8 @@ MyReads is a project that has two parts.  The first part is a page that lets you
 
 #How to run the object:
 
+Clone this repo: https://github.com/Nate03281982/MyReads-Nate.git
+
 You must run npm install
 
 You must also run npm start
