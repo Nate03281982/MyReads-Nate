@@ -10,6 +10,3 @@ You must run npm install
 You must also run npm start
 
 
-#Where to  access the project:
-
-https://github.com/Nate03281982/MY-Reads
